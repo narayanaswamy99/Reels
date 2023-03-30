@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756685028659",
+    "project_id": "reels-54b22",
+    "storage_bucket": "reels-54b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756685028659:android:8446b693cc4ba543d51246",
+        "android_client_info": {
+          "package_name": "com.narayana.reels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756685028659-5tt2upvbshp59194ah34rbs9tpg47i2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXVE4PSocPcP1FCoynRcKufILV2e419CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756685028659-5tt2upvbshp59194ah34rbs9tpg47i2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
